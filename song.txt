@@ -1,0 +1,10 @@
+Cooler Than Me;Mike Posner;0;dance pop;2007
+Telephone;Lady Gaga;1;dance pop;2007
+Like A G6;Far East Movement;2;dance pop;2007
+OMG;Usher;3;atl hip hop;2007
+Only Girl;Rihanna;4;pop;2008
+Eenie Meenie;Sean Kingston;5;dance pop;2008
+The Time;The Black Eyed Peas;6;dance pop;2008
+Alejandro;Lady Gaga;7;dance pop;2008
+Your Love Is My Drug;Kesha;8;dance pop;2008
+Meet Me Halfway;The Black Eyed Peas;9;dance pop;2008
