@@ -1,4 +1,4 @@
 # TreeDataStructure
-AVL Tree
-BS Tree
-RB Tree
+- AVL Tree
+- BS Tree
+- RB Tree
