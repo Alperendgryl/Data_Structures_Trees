@@ -9,8 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-//MUHAMMED ALPEREN DOĞRUYOL 218CS2085
-//KAAN GÜL 218CS2078
+//AlperenDGRYL
 
 public class Main {
 
